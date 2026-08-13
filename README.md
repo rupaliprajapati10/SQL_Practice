@@ -20,6 +20,7 @@ Prepare for SQL interviews and Data Analyst roles
 Learn how to extract meaningful insights from data
 Improve query optimization and logical thinking
 🧠 SQL Concepts Practiced
+
 🔹 Basic SQL
 SELECT
 WHERE
@@ -28,6 +29,7 @@ ORDER BY
 LIMIT
 GROUP BY
 HAVING
+
 🔹 Filtering & Conditions
 Comparison Operators
 Logical Operators
@@ -36,18 +38,21 @@ BETWEEN
 LIKE
 IS NULL
 IS NOT NULL
+
 🔹 Aggregate Functions
 COUNT()
 SUM()
 AVG()
 MIN()
 MAX()
+
 🔹 Joins
 INNER JOIN
 LEFT JOIN
 RIGHT JOIN
 FULL JOIN
 Self Joins
+
 🔹 Advanced SQL
 Subqueries
 Common Table Expressions (CTE)
@@ -57,6 +62,7 @@ ROW_NUMBER()
 RANK()
 DENSE_RANK()
 PARTITION BY
+
 🔹 Data Analysis with SQL
 Ranking records
 Finding top-performing entities
@@ -66,6 +72,7 @@ Identifying trends
 Finding duplicates
 Working with dates
 Business-oriented SQL problems
+
 
 📈 My SQL Learning Journey
 
