@@ -84,6 +84,7 @@ Problem → Logic → Query → Result → Optimization
 
 This repository represents my progress toward becoming a stronger Data Analyst and improving my ability to solve data-related problems using SQL.
 
+
 🎯 What's Next?
 
 I'm currently working on expanding my knowledge in:
@@ -102,12 +103,15 @@ I'm always open to learning!
 
 If you find a better or more efficient way to solve any query in this repository, feel free to share your suggestions. 🚀
 
+
 👩‍💻 About Me
 
 Rupali Prajapati
 
 🎓 Master's in Computer Science
+
 📊 Aspiring Data Analyst
+
 💻 Interested in SQL, Data Analytics & Technology
 
 I'm passionate about learning new technologies and solving problems using data.
